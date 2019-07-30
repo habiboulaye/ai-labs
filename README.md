@@ -1,3 +1,5 @@
+# Deep Learning for Malaria Diagnosis
+
 Malaria is an infectuous disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes.
 
 The Malaria burden with some key figures:

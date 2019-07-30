@@ -1,4 +1,5 @@
-# Deep Learning for Malaria Diagnosis
+# Deep Learning for Malaria Diagnosis 
+(notebook: malaria-diagnosis/deep-learning4malaria-diagnosis_exercice.ipynb)
 
 Malaria is an infectuous disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes.
 
@@ -24,4 +25,4 @@ Main issues related to traditional diagnosis:
 * diagnosis accuracy and cost
 </font>
 
-The objective of this notebook is to apply modern deep learning techniques to perform medical image analysis for malaria diagnosis.
+The objective of the malaria-diagnosis notebook is to apply modern deep learning techniques to perform medical image analysis for malaria diagnosis.
